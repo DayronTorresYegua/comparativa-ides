@@ -42,7 +42,7 @@
         Simplemente le daremos a instalar
 
     - Luego de esto veremos una ventanita asi:
-    
+
         ![alt text](assets/toolbox.png)
 
         En la lupa buscaremos el nombre del ide y le daremos a instalar
@@ -74,10 +74,57 @@
 
         - ¿Cómo fue el proceso de instalación de extensiones o módulos en cada IDE?
 
-            - En visual studio code debemos de dirigirnos al apartado de extensiones y alli buscar las extensiones que deeseemos, en cambio, en fleet las extensiones disponibles ya vienen preinstaladas cuando instalas el IDE
+            - En Visual Studio Code debemos de dirigirnos al apartado de extensiones y alli buscar las extensiones que deeseemos, en cambio, en fleet las extensiones disponibles ya vienen preinstaladas cuando instalas el IDE
 
         - ¿Qué beneficios proporcionan las extensiones o plugins que instalaste para el desarrollo de tus proyectos?
 
-            - En Visual Studio Code he instalado algunas como Error lens que te mejora los mensajes de error, avisos, etc.. Prettier para un mejor formateo del codigo, Paquete de extension python para poder hacer uso del lenguaje.
+            - En Visual Studio Code he instalado algunas como Error lens que te mejora los mensajes de error, avisos, etc... Prettier para un mejor formateo del codigo, Paquete de extension python para poder hacer uso del lenguaje.
 
             - En Fleet hay diferentes extensiones para diversos idiomas como Python, Kotlin, Java, C, etc, tambien tiene instalado prettier al igual que Visual Studio Code
+
+## 2.3. Personalización y automatización del entorno (CE 2.c)
+
+- Personalizaciones entornos:
+
+    - Antes
+
+        - Visual Studio Code
+
+            ![antes vscode](assets/antesVSCode.png)
+
+        - Fleet: 
+            ![antes fllet](assets/antesFleet.png)
+
+    - Despues: 
+        - Visual Studio Code
+            ![despues vscode](assets/despuesVSCode.png)
+
+        - Fleet:
+            ![despues fleet](assets/despuesFleet.png)
+
+
+- Autoguardado:
+
+    - Configurado para que cuando dejo de escribir se guarde el archivo automaticamente
+    
+        ![auto save](assets/autosave.png)
+
+- **Preguntas evaluativas:**
+
+    - ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
+
+        - He personalizado aspectos como pueden ser el tema, iconos o tareas. Esto ha mejorado mi experiencia de desarrollo de forma que visualmente se vea mejor, más facil de diferencias las cosas y ayuda en el desarrollo
+
+    - ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
+
+        - He configurado que se autoguarden los cambios que hago en los ficheros de forma que no tenga que guardarlos yo manualmente
+
+## 2.4. Configuración del sistema de actualización del entorno de desarrollo (CE 2.d)
+
+
+
+## 2.5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE (CE 2.e)
+
+
+
+## 2.6. Generación de ejecutables con diferentes IDEs a partir del mismo código fuente (CE 2.f)
