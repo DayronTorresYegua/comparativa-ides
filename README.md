@@ -158,3 +158,22 @@
         - Para kotlin hay que configurar el gradle del proyecto
 
 ## 2.6. Generación de ejecutables con diferentes IDEs a partir del mismo código fuente (CE 2.f)
+
+
+- Ejecucion Visual Studio Code
+
+    ![ejecucionPythonVSCode](assets/ejecucionPythonVSCode.png)
+
+- Ejecucion Fleet
+
+    ![EjecucionPythonFleet](assets/ejecucionPythonFleet.png)
+
+- **Preguntas:**
+
+    - ¿Qué diferencias encontraste al ejecutar el mismo código fuente en diferentes IDEs?
+
+        - Ninguna la verdad a la hora de ejecutar es lo mismo
+
+    - ¿Cuál de los IDEs te pareció más cómodo o eficiente para ejecutar el código Python o el lenguajes que hayas elegido? ¿Por qué?
+
+        - Me parece más cómodo Visual Studio Code porque es con el que estoy más familiarizado
