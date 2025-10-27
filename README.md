@@ -121,10 +121,40 @@
 
 ## 2.4. Configuración del sistema de actualización del entorno de desarrollo (CE 2.d)
 
+- **Preguntas evaluativas:**
 
+    - ¿Cómo configuraste las actualizaciones automáticas en cada IDE?
+
+        - En Visual Studio Code:
+            ![autoupdateVSCode](assets/codeUpdate.png)
+        - En Fleet: 
+            - Le damos a los 3 puntos y activamos actualizaciones automaticas
+                ![fleet Update](assets/fleetUpdate.png) ![fleet update2](assets/fleetUpdate2.png)
+    - ¿Por qué es importante mantener el IDE actualizado en proyectos de desarrollo?
+
+        - Porque al mantener actualizado el IDE podemos acceder a las versiones más recientes de las diferentes funcionalidades las cuales nos son de ayuda a la hora de desarrollar
 
 ## 2.5. Generación de ejecutables a partir de código fuente en distintos lenguajes en un mismo IDE (CE 2.e)
 
+- Codigos y ejecucion:
 
+    ![Fleet code](assets/fleetCodeKt.png)
+
+    ![Fleet ejecucion](assets/fleetEjecKt.png)
+
+    ![Java Code](assets/fleetCodeJava.png)
+
+    ![Java ejecucion](assets/fleetEjecJava.png)
+
+- **Preguntas evaluativas:**
+
+    - ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
+
+        - Dandole al boton de ejecutar o usando el atajo de teclado dentro del IDE
+
+    - ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
+
+        - Para java en la terminal poner javac nombre_del_archivo
+        - Para kotlin hay que configurar el gradle del proyecto
 
 ## 2.6. Generación de ejecutables con diferentes IDEs a partir del mismo código fuente (CE 2.f)
