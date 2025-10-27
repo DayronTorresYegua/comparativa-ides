@@ -107,13 +107,15 @@
 
     - Configurado para que cuando dejo de escribir se guarde el archivo automaticamente
     
-        ![auto save](assets/autosave.png)
+        ![auto save VSCode](assets/autosave.png)
+
+        ![auto save fleet](assets/autosaveFleet.png)
 
 - **Preguntas evaluativas:**
 
     - ¿Qué aspectos del entorno personalizaste y cómo mejoró tu experiencia de desarrollo?
 
-        - He personalizado aspectos como pueden ser el tema, iconos o tareas. Esto ha mejorado mi experiencia de desarrollo de forma que visualmente se vea mejor, más facil de diferencias las cosas y ayuda en el desarrollo
+        - He personalizado aspectos como pueden ser el tema, iconos, tareas y atajos de teclado. Esto ha mejorado mi experiencia de desarrollo de forma que visualmente se vea mejor, más facil de diferenciar las cosas y mayor accesibilidad para atajos de teclado.
 
     - ¿Cómo configuraste la automatización de tareas y en qué te benefició durante el trabajo?
 
@@ -150,7 +152,7 @@
 
     - ¿Cuál fue el proceso para ejecutar el mismo programa en diferentes lenguajes dentro del mismo IDE?
 
-        - Dandole al boton de ejecutar o usando el atajo de teclado dentro del IDE
+        - Dandole al boton de ejecutar, usando el atajo de teclado dentro del IDE o bien haciendo uso del comando correspondiente desde la terminal.
 
     - ¿Qué diferencias encontraste en la generación del ejecutable entre los dos lenguajes?
 
